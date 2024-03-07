@@ -1,0 +1,26 @@
+---
+# Members of your group.
+group:
+  - name: Teg Singh
+    netid: ts647
+  - name: Anjali Kesari
+    netid: ak2239
+  - name: Prisha Singhal
+    netid: ps863
+  - name: Shefali Awasthi
+    netid: sa867
+# Your PM.
+pm:
+  name: Michael Avellino
+  netid: mca63
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "TAPS Song Database"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: https://github.coecis.cornell.edu/ak2239/cs3110-finalproject"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a database management system for songs. It supports queries for songs based on artist, song year, etc. and provides random songs based on specifications as well.
