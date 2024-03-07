@@ -1,0 +1,5 @@
+Steps:
+1. opam install csv
+2. cd taps
+3. make build
+4. make play
